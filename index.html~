@@ -1,0 +1,97 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>cvbrgava</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Bhargava Chintalapati</h1>
+        <div id="profile-image">
+          <img src="images/profile-image.jpg" />
+        </div>
+        <div class="contact">
+          <h4>contact</h4>
+         cvbrgava@gmail.com 
+        </div>
+        <p></p>
+
+      </header>
+      <section>
+      <p>I am a Bare-Metal Applications Engineer at <a href="http://www.qualcomm.co.in/">Qualcomm</a> in Bangalore. I graduated from <a href="https://https://www.iitm.ac.in/">IIT Madras</a> with a Bachelor's in Electrical Engineering and a Masters in VLSI Design. The focus of my work at Qualcomm is to evaluate Thermal Mitigation Algorithms without software stack operating on the hardware.</p>
+
+        <p>While at IIT I was interested in Applied Mathematics, which I try to pursue by working on several personal projects</p>
+
+<h3>
+<a name="Projects" class="anchor" href="#projects"><span class="octicon octicon-link"></span></a>Projects</h3>
+
+        <p class="pub-item">
+          <div class="pub-title">Vulcan - Thermal Profiling Framework
+            [<a href="docs/vulcan/vulcan.html">Link</a>]
+          </div>
+	  Bare-Metal ARM A53 Octa Core application to evaluate Thermal Mitigation Algorithms
+	  <b>[ @ Qualcomm Thermal Summit 2015, San Diego ]</b> 
+	  <b>[ @ QBuzz 2015, Bangalore ]</b> 
+        </p>
+
+        <p class="pub-item">
+          <div class="pub-title">IMU over IP
+            [<a href="docs/ipimu/ipimu.html">Link</a>]</div>
+	IMU built using server installed on an Android Phone	
+        </p>
+
+        <p class="pub-item">
+          <div class="pub-title">OpticalFlow over VideoStream
+            [<a href="docs/optflow/optflow.html">Link</a>]</div>
+	 Movement detection using an Android Phone's Camera
+        </p>
+
+        <p class="pub-item">
+          <div class="pub-title">SnowGlobe0.1
+            [<a href="docs/unity/unity.html">Link</a>]</div>
+    	Project based on the Unity Physics Engine
+        </p>
+
+        <p class="pub-item">
+          <div class="pub-title">FAT32 drivers
+            [<a href="docs/fat/fat.html">Link</a>]
+	</div>
+	  Enable Bare-Metal Applications to pick up Multi-Media content
+        </p>
+
+        <p class="pub-item">
+          <div class="pub-title">fOSsil - ARM CortexM3 Micro Kernel </div>
+         Basic implementation of an OS  
+        </p>
+
+
+        <p class="pub-item">
+          <div class="pub-title">Model Order Reduction
+            [<a href="http://www.ee.iitm.ac.in/~ee08b037/">Link</a>]</div>
+	  Project that earned me a Master's Degree at IIT Madras
+        </p>
+
+        <p class="pub-item">
+          <div class="pub-title">Want To Fly 
+            [<a href="https://www.youtube.com/watch?v=xbXWu8h9qXY">Link</a>]</div>
+	  Project done at the Aero Club in IIT Madras
+        </p>
+<h3>
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
